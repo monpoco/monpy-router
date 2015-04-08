@@ -1,4 +1,4 @@
-# monpy-router
+# monpy-router [![Build Status](https://travis-ci.org/monpoco/monpy-router.svg?branch=master)](https://travis-ci.org/monpoco/monpy-router) [![NPM version](https://badge.fury.io/js/monpy-router.svg)](http://badge.fury.io/for/js/monpy-router)
 
 ## Installation
 
